@@ -1,0 +1,10 @@
+site_name: Tweakerz's wiki
+theme:
+  name: material
+  features:
+    - navigation.tabs
+nav:
+  - wiki:
+    - wx公众号文章抓取: index.md
+  - demo:
+    - home: intro.md
