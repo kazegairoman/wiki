@@ -160,7 +160,6 @@ url="https://mp.weixin.qq.com/cgi-bin/appmsg"
 #我这里先把数据写入到txt文件中
 
   
-
 f = open("微信公众号文章.txt",mode="w",encoding="utf-8")
 
 headers={
