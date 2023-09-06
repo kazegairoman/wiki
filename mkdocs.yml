@@ -500,8 +500,6 @@ nav:
     - 括号序列: topic/bracket.md
     - 线段树与离线询问: topic/segment-tree-offline.md
 
-
-
 theme:
   name: material
   language: 'zh'
