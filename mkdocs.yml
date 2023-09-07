@@ -577,8 +577,8 @@ markdown_extensions:
 
 
 plugins:
-  # - search:
-  #     jieba_dict: dict.txt 
+  - search:
+      jieba_dict: dict.txt 
   - git-revision-date-localized:
       type: timeago
       enable_creation_date: true
